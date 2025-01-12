@@ -8,7 +8,7 @@ This is a Python-based graphical user interface (GUI) application for predicting
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Overview](#code-overview)
-- [Screenshots](#screenshots)
+- Demo
 - [Contributing](#contributing)
 - [License](#license)
 - [Citation](#citation)
@@ -75,11 +75,11 @@ This is a Python-based graphical user interface (GUI) application for predicting
 
 The GUI is created using Tkinter's `ttk` widgets and styled with a custom theme for a modern look. It includes a button to choose an image, and frames to display the selected image and prediction result.
 
-## Screenshots
+## Demonstration Video
 
-![Screenshot 1](path_to_screenshot_1)
+Watch the demonstration video below to see the TB Lung Image Predictor in action:
+[![Watch the video](https://img.youtube.com/vi/DHjsDJVyON4/0.jpg)](https://www.youtube.com/watch?v=DHjsDJVyON4)
 
-![Screenshot 2](path_to_screenshot_2)
 
 ## Contributing
 
