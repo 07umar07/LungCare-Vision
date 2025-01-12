@@ -14,8 +14,8 @@ This is a Python-based graphical user interface (GUI) application for predicting
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your_username/tb-lung-image-predictor.git
-    cd tb-lung-image-predictor
+    git clone https://github.com/07umar07/Tuberculosis-Detector.git
+    cd Tuberculosis-Detector
     ```
 
 2. **Install the necessary dependencies:**
@@ -24,7 +24,7 @@ This is a Python-based graphical user interface (GUI) application for predicting
     pip install -r requirements.txt
     ```
 
-    Make sure your `requirements.txt` includes the following libraries:
+    `requirements.txt` includes the following libraries:
     - numpy
     - tensorflow
     - pillow
