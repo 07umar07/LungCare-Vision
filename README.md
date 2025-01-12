@@ -81,7 +81,7 @@ The GUI is created using Tkinter's `ttk` widgets and styled with a custom theme 
 ## Demonstration Video
 
 Watch the demonstration video below to see the TB Lung Image Predictor in action:
-[![Watch the video](https://img.youtube.com/vi/DHjsDJVyON4/0.jpg)](https://www.youtube.com/watch?v=DHjsDJVyON4)
+[![Watch the video](https://img.youtube.com/vi/OfoCx7cwaSk/0.jpg)](https://www.youtube.com/watch?v=OfoCx7cwaSk)
 
 
 ## Contributing
