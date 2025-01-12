@@ -8,7 +8,7 @@ This is a Python-based graphical user interface (GUI) application for predicting
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Overview](#code-overview)
-- Demo
+- [Demonstration Video](#Demonstration-Video)
 - [Contributing](#contributing)
 - [License](#license)
 - [Citation](#citation)
