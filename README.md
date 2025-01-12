@@ -39,6 +39,9 @@ This is a Python-based graphical user interface (GUI) application for predicting
     `requirements.txt` includes the following libraries:
     - numpy
     - tensorflow
+    - matplotlib
+    - imblearn
+    - scikit-learn
     - pillow
     - tkinter (if not already included in your Python installation)
 
