@@ -104,5 +104,4 @@ Tawsifur Rahman, Amith Khandakar, Muhammad A. Kadir, Khandaker R. Islam, Khandak
 1. S. Jaeger, S. Candemir, S. Antani, Y.-X. J. Wáng, P.-X. Lu, and G. Thoma, "Two public chest X-ray datasets for computer-aided screening of pulmonary diseases," Quantitative imaging in medicine and surgery, vol. 4 (6), p. 475 (2014)
 2. B. P. Health. (2020). BELARUS TUBERCULOSIS PORTAL [Online]. Available: [http://tuberculosis.by/](http://tuberculosis.by/). [Accessed on 09-June-2020]
 3. NIAID TB portal program dataset [Online]. Available: [https://tbportals.niaid.nih.gov/download-data](https://tbportals.niaid.nih.gov/download-data).
-4. kaggle. RSNA Pneumonia Detection Challenge [Online]. Available: [https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data). [Accessed on 09-June-2020]
-5. kaggle. Tuberculosis (TB) Chest X-ray Database [Online]. Available: [https://www.kaggle.com/datasets/scipygaurav/tuberculosis-tb-chest-x-ray-cleaned-database](https://www.kaggle.com/datasets/scipygaurav/tuberculosis-tb-chest-x-ray-cleaned-database).
+4. kaggle. Tuberculosis (TB) Chest X-ray Database [Online]. Available: [https://www.kaggle.com/datasets/scipygaurav/tuberculosis-tb-chest-x-ray-cleaned-database](https://www.kaggle.com/datasets/scipygaurav/tuberculosis-tb-chest-x-ray-cleaned-database).
