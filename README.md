@@ -2,6 +2,18 @@
 
 This is a Python-based graphical user interface (GUI) application for predicting the presence of Tuberculosis in lung images. The application leverages TensorFlow for model inference, PIL for image processing, and Tkinter for the GUI.
 
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Code Overview](#code-overview)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Citation](#citation)
+- [References](#references)
+
 ## Features
 
 - **User-friendly Interface:** A simple and intuitive interface to load and analyze lung images.
@@ -69,4 +81,19 @@ Feel free to submit issues, fork the repository, and make pull requests. Any con
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPLv3 License. See the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+Researchers can use this database to produce useful and impactful scholarly work on TB, which can help in tackling this issue.
+
+Please cite this database if you are using it for any scientific purpose:
+Tawsifur Rahman, Amith Khandakar, Muhammad A. Kadir, Khandaker R. Islam, Khandaker F. Islam, Zaid B. Mahbub, Mohamed Arselene Ayari, Muhammad E. H. Chowdhury. (2020) "Reliable Tuberculosis Detection using Chest X-ray with Deep Learning, Segmentation and Visualization". IEEE Access, Vol. 8, pp 191586 - 191601. DOI: 10.1109/ACCESS.2020.3031384.
+
+## References
+
+1. S. Jaeger, S. Candemir, S. Antani, Y.-X. J. Wáng, P.-X. Lu, and G. Thoma, "Two public chest X-ray datasets for computer-aided screening of pulmonary diseases," Quantitative imaging in medicine and surgery, vol. 4 (6), p. 475 (2014)
+2. B. P. Health. (2020). BELARUS TUBERCULOSIS PORTAL [Online]. Available: [http://tuberculosis.by/](http://tuberculosis.by/). [Accessed on 09-June-2020]
+3. NIAID TB portal program dataset [Online]. Available: [https://tbportals.niaid.nih.gov/download-data](https://tbportals.niaid.nih.gov/download-data).
+4. kaggle. RSNA Pneumonia Detection Challenge [Online]. Available: [https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data). [Accessed on 09-June-2020]
+5. kaggle. Tuberculosis (TB) Chest X-ray Database [Online]. Available: [https://www.kaggle.com/datasets/scipygaurav/tuberculosis-tb-chest-x-ray-cleaned-database](https://www.kaggle.com/datasets/scipygaurav/tuberculosis-tb-chest-x-ray-cleaned-database).
