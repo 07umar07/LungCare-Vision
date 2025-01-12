@@ -44,20 +44,26 @@ This is a Python-based graphical user interface (GUI) application for predicting
 
 ## Usage
 
-1. **Run the application:**
+1. **Open Jupyter Notebook or Google Colab:**
 
     ```bash
-    python main.py
+    jupyter notebook
     ```
 
-2. **Using the interface:**
+2. **Run the notebook:**
+    - Navigate to the directory where the `.ipynb` file is located.
+    - Open the notebook in your browser.
+    - Run the cells in the notebook to execute the application.
+
+3. **Using the interface:**
     - Click on the "Choose the Image" button to open a file dialog.
     - Select a lung image file from your directory.
     - The selected image and prediction result will be displayed on the GUI.
 
 ## Code Overview
 
-- **main.py:** The main script that includes the GUI setup and prediction logic.
+- **TBCDetector.ipynb:** The main script that includes model training and testing.
+- **Test.ipynb:** The testing script includes the GUI setup and prediction test.
 
 ### Main Functions
 
