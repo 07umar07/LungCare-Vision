@@ -1,6 +1,6 @@
 # LungCare Vision (TB Lung Image Predictor)
 
-This is a Python-based graphical user interface (GUI) application for predicting the presence of Tuberculosis in X-ray lung images. The application leverages TensorFlow for model inference, PIL for image processing, and Tkinter for the GUI.
+This is a Python-based graphical user interface (GUI) application for predicting the presence of Tuberculosis in X-ray lung images. The application leverages TensorFlow for model inference, PIL for image processing, and Tkinter or QT for the GUI.
 
 ## Table of Contents
 
